@@ -1,0 +1,22 @@
+{
+  "name": "module9_2_solntsev",
+  "version": "1.0.0",
+  "description": "module9_2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrAntigg/module9.2.git"
+  },
+  "author": "SolntsevDE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrAntigg/module9.2/issues"
+  },
+  "homepage": "https://github.com/MrAntigg/module9.2#readme",
+  "dependencies": {
+    "jquery": "^3.6.3"
+  }
+}
